@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="title">Login form</string>
+    <string name="username">Username</string>
+</resources>
